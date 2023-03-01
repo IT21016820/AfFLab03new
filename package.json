@@ -1,0 +1,19 @@
+{
+  "name": "afflab03new",
+  "version": "1.0.0",
+  "description": "testing git flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT21016820/AfFLab03new.git"
+  },
+  "author": "Ashani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT21016820/AfFLab03new/issues"
+  },
+  "homepage": "https://github.com/IT21016820/AfFLab03new#readme"
+}
